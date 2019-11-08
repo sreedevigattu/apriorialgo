@@ -1,0 +1,62 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,antecedent_len
+"['light cream', 'nan']",['chicken'],0.02,0.06,0.0045,0.29,4.84,0.0036,1.33,2
+"['chocolate', 'frozen vegetables']",['shrimp'],0.02,0.07,0.0053,0.23,3.25,0.0037,1.21,2
+"['chocolate', 'shrimp']",['frozen vegetables'],0.02,0.1,0.0053,0.3,3.11,0.0036,1.29,2
+"['spaghetti', 'cooking oil']",['ground beef'],0.02,0.1,0.0048,0.3,3.08,0.0032,1.29,2
+"['ground beef', 'cooking oil']",['spaghetti'],0.01,0.17,0.0048,0.57,3.28,0.0033,1.93,2
+"['mushroom cream sauce', 'nan']",['escalope'],0.02,0.08,0.0057,0.3,3.79,0.0042,1.32,2
+"['nan', 'pasta']",['escalope'],0.02,0.08,0.0059,0.37,4.7,0.0046,1.47,2
+"['spaghetti', 'frozen vegetables']",['ground beef'],0.03,0.1,0.0087,0.31,3.17,0.0059,1.31,2
+"['frozen vegetables', 'olive oil']",['milk'],0.01,0.13,0.0048,0.42,3.27,0.0033,1.51,2
+"['mineral water', 'shrimp']",['frozen vegetables'],0.02,0.1,0.0072,0.31,3.2,0.0049,1.3,2
+"['spaghetti', 'frozen vegetables']",['olive oil'],0.03,0.07,0.0057,0.21,3.12,0.0039,1.18,2
+"['spaghetti', 'frozen vegetables']",['shrimp'],0.03,0.07,0.006,0.22,3.01,0.004,1.18,2
+"['spaghetti', 'frozen vegetables']",['tomatoes'],0.03,0.07,0.0067,0.24,3.5,0.0048,1.22,2
+"['spaghetti', 'tomatoes']",['frozen vegetables'],0.02,0.1,0.0067,0.32,3.34,0.0047,1.33,2
+"['spaghetti', 'grated cheese']",['ground beef'],0.02,0.1,0.0053,0.32,3.28,0.0037,1.33,2
+"['mineral water', 'herb & pepper']",['ground beef'],0.02,0.1,0.0067,0.39,3.98,0.005,1.48,2
+"['herb & pepper', 'nan']",['ground beef'],0.05,0.1,0.016,0.32,3.29,0.0111,1.33,2
+"['herb & pepper', 'spaghetti']",['ground beef'],0.02,0.1,0.0064,0.39,4.0,0.0048,1.49,2
+"['milk', 'ground beef']",['olive oil'],0.02,0.07,0.0049,0.22,3.4,0.0035,1.2,2
+"['nan', 'tomato sauce']",['ground beef'],0.01,0.1,0.0053,0.38,3.84,0.0039,1.45,2
+"['ground beef', 'shrimp']",['spaghetti'],0.01,0.17,0.006,0.52,3.01,0.004,1.73,2
+"['mineral water', 'soup']",['olive oil'],0.02,0.07,0.0052,0.23,3.42,0.0037,1.21,2
+"['nan', 'whole wheat pasta']",['olive oil'],0.03,0.07,0.008,0.27,4.12,0.0061,1.28,2
+"['nan', 'pasta']",['shrimp'],0.02,0.07,0.0051,0.32,4.51,0.0039,1.37,2
+"['nan', 'chocolate', 'frozen vegetables']",['shrimp'],0.02,0.07,0.0053,0.23,3.25,0.0037,1.21,3
+"['nan', 'chocolate', 'shrimp']",['frozen vegetables'],0.02,0.1,0.0053,0.3,3.11,0.0036,1.29,3
+"['chocolate', 'frozen vegetables']","['nan', 'shrimp']",0.02,0.07,0.0053,0.23,3.26,0.0037,1.21,2
+"['chocolate', 'shrimp']","['nan', 'frozen vegetables']",0.02,0.1,0.0053,0.3,3.11,0.0036,1.29,2
+"['nan', 'spaghetti', 'cooking oil']",['ground beef'],0.02,0.1,0.0048,0.3,3.08,0.0032,1.29,3
+"['nan', 'ground beef', 'cooking oil']",['spaghetti'],0.01,0.17,0.0048,0.57,3.28,0.0033,1.93,3
+"['spaghetti', 'cooking oil']","['nan', 'ground beef']",0.02,0.1,0.0048,0.3,3.08,0.0032,1.29,2
+"['ground beef', 'cooking oil']","['nan', 'spaghetti']",0.01,0.17,0.0048,0.57,3.28,0.0033,1.93,2
+"['nan', 'spaghetti', 'frozen vegetables']",['ground beef'],0.03,0.1,0.0087,0.31,3.17,0.0059,1.31,3
+"['spaghetti', 'frozen vegetables']","['nan', 'ground beef']",0.03,0.1,0.0087,0.31,3.17,0.0059,1.31,2
+"['mineral water', 'milk', 'spaghetti']",['frozen vegetables'],0.02,0.1,0.0045,0.29,3.02,0.003,1.27,3
+"['nan', 'frozen vegetables', 'olive oil']",['milk'],0.01,0.13,0.0048,0.42,3.27,0.0033,1.51,3
+"['frozen vegetables', 'olive oil']","['nan', 'milk']",0.01,0.13,0.0048,0.42,3.27,0.0033,1.51,2
+"['mineral water', 'nan', 'shrimp']",['frozen vegetables'],0.02,0.1,0.0072,0.31,3.22,0.005,1.31,3
+"['mineral water', 'shrimp']","['nan', 'frozen vegetables']",0.02,0.1,0.0072,0.31,3.2,0.0049,1.3,2
+"['nan', 'spaghetti', 'frozen vegetables']",['olive oil'],0.03,0.07,0.0057,0.21,3.12,0.0039,1.18,3
+"['spaghetti', 'frozen vegetables']","['nan', 'olive oil']",0.03,0.07,0.0057,0.21,3.13,0.0039,1.18,2
+"['nan', 'spaghetti', 'frozen vegetables']",['shrimp'],0.03,0.07,0.006,0.22,3.01,0.004,1.18,3
+"['spaghetti', 'frozen vegetables']","['nan', 'shrimp']",0.03,0.07,0.006,0.22,3.02,0.004,1.18,2
+"['nan', 'spaghetti', 'frozen vegetables']",['tomatoes'],0.03,0.07,0.0067,0.24,3.5,0.0048,1.22,3
+"['nan', 'spaghetti', 'tomatoes']",['frozen vegetables'],0.02,0.1,0.0067,0.32,3.34,0.0047,1.33,3
+"['spaghetti', 'frozen vegetables']","['nan', 'tomatoes']",0.03,0.07,0.0067,0.24,3.5,0.0048,1.22,2
+"['spaghetti', 'tomatoes']","['nan', 'frozen vegetables']",0.02,0.1,0.0067,0.32,3.34,0.0047,1.33,2
+"['nan', 'spaghetti', 'grated cheese']",['ground beef'],0.02,0.1,0.0053,0.32,3.28,0.0037,1.33,3
+"['spaghetti', 'grated cheese']","['nan', 'ground beef']",0.02,0.1,0.0053,0.32,3.28,0.0037,1.33,2
+"['mineral water', 'herb & pepper', 'nan']",['ground beef'],0.02,0.1,0.0067,0.39,3.98,0.005,1.48,3
+"['mineral water', 'herb & pepper']","['nan', 'ground beef']",0.02,0.1,0.0067,0.39,3.98,0.005,1.48,2
+"['herb & pepper', 'nan', 'spaghetti']",['ground beef'],0.02,0.1,0.0064,0.39,4.0,0.0048,1.49,3
+"['herb & pepper', 'spaghetti']","['nan', 'ground beef']",0.02,0.1,0.0064,0.39,4.0,0.0048,1.49,2
+"['nan', 'ground beef', 'milk']",['olive oil'],0.02,0.07,0.0049,0.22,3.4,0.0035,1.2,3
+"['milk', 'ground beef']","['nan', 'olive oil']",0.02,0.07,0.0049,0.22,3.41,0.0035,1.2,2
+"['nan', 'ground beef', 'shrimp']",['spaghetti'],0.01,0.17,0.006,0.52,3.01,0.004,1.73,3
+"['ground beef', 'shrimp']","['nan', 'spaghetti']",0.01,0.17,0.006,0.52,3.01,0.004,1.73,2
+"['mineral water', 'soup', 'nan']",['olive oil'],0.02,0.07,0.0052,0.23,3.42,0.0037,1.21,3
+"['mineral water', 'soup']","['nan', 'olive oil']",0.02,0.07,0.0052,0.23,3.43,0.0037,1.21,2
+"['mineral water', 'nan', 'spaghetti', 'milk']",['frozen vegetables'],0.02,0.1,0.0045,0.29,3.02,0.003,1.27,4
+"['mineral water', 'milk', 'spaghetti']","['nan', 'frozen vegetables']",0.02,0.1,0.0045,0.29,3.02,0.003,1.27,3
